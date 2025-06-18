@@ -1,2 +1,4 @@
 # after-template
-my template for making android apps:D
+***what is this nonsense?***
+
+this is made in order to build an identity:D
